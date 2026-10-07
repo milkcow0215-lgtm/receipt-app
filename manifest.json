@@ -1,0 +1,19 @@
+{
+  "name": "영수증 A4 정리",
+  "short_name": "영수증",
+  "description": "영수증을 월별로 저장하고 A4 PDF로 정리합니다.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
